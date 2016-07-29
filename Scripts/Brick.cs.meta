@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3320f258d8f4971468b890409d17df6c
+timeCreated: 1469692823
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - crack: {fileID: 8300000, guid: b28d77eb7ea386c48b7cf9d6de8f3c21, type: 3}
+  - explosion: {fileID: 8300000, guid: afc186292d5303a4a947e52bc546d9e5, type: 3}
+  - powerUp: {fileID: 8300000, guid: 968e94a34cd7aa940981d2651909b609, type: 3}
+  - smoke: {fileID: 196130, guid: f765b2195a8ec394a91ba9481314731d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

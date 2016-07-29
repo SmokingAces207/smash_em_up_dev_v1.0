@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ba33bbb13d5ae5841b5529e84f1e91fa
+timeCreated: 1469692744
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - powerCollected: {fileID: 8300000, guid: d7f7a82db8ca286438edddea78e6673d, type: 3}
+  - powerBall: {fileID: 181580, guid: adb50ead583a1ad4b90a9d6c15c42402, type: 2}
+  - Ball: {fileID: 181580, guid: f79ae0dac76ec7d44b608e42a97ede1d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
